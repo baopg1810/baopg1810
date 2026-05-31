@@ -1,7 +1,7 @@
 #   👋 Hi, I’m Bao
 
 ## About me
-- 🌱 I’m currently learning FPT University
+- 🌱 I’m Bachelor of Information Technology
 - 📫 How to reach me baopg1810@gmail.com
 - 🏖 My hobbies: Traveling and Reading
 
